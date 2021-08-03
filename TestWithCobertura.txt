@@ -8,4 +8,4 @@ code coverage xml is generated inside the bin folder -> test results
 
 on packagemanager run:
 
- reportgenerator -reports:"D:\repos\devops\WIS\UnitTests\InformationManagement.Api.UnitTests\TestResults\e68f7677-9632-4746-bb57-e0ff3ace770d\coverage.cobertura.xml" -targetdir:"coveragereport"-reporttypes:Html
+ reportgenerator -reports:"D:\repos\devops\ProjectName\TestResults\e68f7677-9632-4746-bb57-e0ff3ace770d\coverage.cobertura.xml" -targetdir:"coveragereport"-reporttypes:Html
